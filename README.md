@@ -1,7 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
-
-### <div align="center">I'm David, a React/TypeScript front-end developer 👨‍💻 </div>  
+## <div align="center">I'm David, a React/TypeScript front-end developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Gao-mata](https://gao-mata.vercel.app/) a Yoga website for a friend  
