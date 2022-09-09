@@ -1,7 +1,7 @@
 ## <div align="center">I'm David, a React/TypeScript front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Gao-mata](https://gao-mata.vercel.app/) a Yoga website for a friend  
+- 🔭 I’m currently working on [Gao-mata](https://www.gaomata.fr/) a Yoga website for a friend 
   
 
 - 🌱 I’m currently learning TypeScript / Node & Solidity  
