@@ -1,10 +1,10 @@
 ## <div align="center">I'm David, a React/TypeScript front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on improving my pythonic skills and learning blockchain dev
+- 🔭 I’m currently working on a python API & doing a cryptocurrency bridge from L2 to L1 with Next.js and TypeScript
   
 
-- 🌱 I’m currently learning TypeScript / Node & Solidity  
+- 🌱 I’m currently learning Python & Solidity  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies & I'll try to answer 💬  
