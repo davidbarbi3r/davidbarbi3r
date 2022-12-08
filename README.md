@@ -1,7 +1,7 @@
 ## <div align="center">I'm David, a React/TypeScript front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on a python API & doing a cryptocurrency bridge from L2 to L1 with Next.js and TypeScript
+- 🔭 I’m currently working on a python API & a cryptocurrency bridge from L2 to L1 with Next.js and TypeScript
   
 
 - 🌱 I’m currently learning Python & Solidity  
