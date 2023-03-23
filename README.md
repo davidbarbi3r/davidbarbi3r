@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a python API & a cryptocurrency bridge from L2 to L1 with Next.js and TypeScript
   
 
-- 🌱 I’m currently learning Python & Solidity  
+- 🌱 I’m currently improving my backend skills and building some next.js apps
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies & I'll try to answer 💬  
