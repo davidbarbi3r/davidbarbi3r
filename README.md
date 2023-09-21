@@ -1,13 +1,13 @@
-## <div align="center">I'm David, a React/TypeScript front-end developer 👨‍💻 </div>  
+## <div align="center">I'm David, a TypeScript fullstack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on a deck building card game (tech stack back: golang front: next.js / typescript)
   
 
-- 🌱 I’m currently improving my backend skills and building some next.js apps
+- 🌱 I’m currently improving my backend skills building some nest.js apps
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies & I'll try to answer 💬  
+- ❓ Ask me about anything related to JS/TS stack and related technologies & I'll try to answer 💬  
   
 
 <br/>  
