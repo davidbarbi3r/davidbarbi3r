@@ -1,5 +1,8 @@
 ## <div align="center">I'm David, a TypeScript fullstack developer 👨‍💻 </div>  
+
   
+- 🧩 I'm building RetrOasis, a SaaS platform for retrogamers colectors
+
 
 - 🔭 I’m currently working on a deck building card game (tech stack back: golang front: next.js / typescript)
   
