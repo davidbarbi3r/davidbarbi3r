@@ -1,4 +1,4 @@
-## <div align="center">I'm David, a TypeScript fullstack developer 👨‍💻 </div>  
+## <div align="center">I'm David, a TypeScript freelance web developer 👨‍💻 </div>  
 
   
 - 🧩 I'm building RetrOasis, a SaaS platform for retrogamers colectors
@@ -70,6 +70,8 @@
 <a href="https://linkedin.com/in/dbarbier" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://davidbarbier.com" target="_blank">My website
+</a>
 </div>  
   
 
